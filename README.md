@@ -1,4 +1,4 @@
 **CALCULATOR PREVIEW**
-![image](https://github.com/user-attachments/assets/ec1bfdd3-9a81-4f9c-a1d0-8e1881ee814a)
+<img src=""C:\Users\manas\OneDrive\Pictures\Screenshots\Screenshot 2024-10-24 014622.png"" alt="Screenshot1" width="300"/>
 # link
  https://manasmallik07.github.io/codesoft-calculator/
